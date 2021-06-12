@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------------------------------------
 ![image](FlaskApp/static/assets/logo1.png)
 
-<h5> <strong> An applied Artificial Intelligence UseCase by Faktıon and Becode to remove the background in seconds using Deep Learning technologies! </strong> </h5>
+<h5> <strong> An applied Artificial Intelligence UseCase by Faktion and Becode to remove the background in seconds using Deep Learning technologies! </strong> </h5>
 
 ---
 
@@ -28,6 +28,7 @@ This project outcome belongs to **[Simon Snyders](https://github.com/simonsny)**
 - [Collaboration](#collaboration)
 - [Authors Info](#authors-info)
 - [Acknowledgements](#acknowledgements)
+- Use Case Given By: [Faktion](https://www.faktion.com/)
 
 ---
 
